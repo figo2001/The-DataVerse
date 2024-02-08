@@ -1,0 +1,13 @@
+[deprecation]
+showPyplotGlobalUse = false
+
+
+[theme]
+primaryColor="#c9cfd1"
+backgroundColor="#2e3436"
+secondaryBackgroundColor="#16081e"
+textColor="#93f4de"
+font="serif"
+
+
+
